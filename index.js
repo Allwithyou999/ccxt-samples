@@ -51,8 +51,8 @@ const exchangeIds = ["binance", "bitfinex"]; // huobipro
 const symbols = ["FTT/BTC"];
 const finalOpts = {
   binance: {
-    apiKey: "5r1nwze8NaRUtVJCIzzsv9rSoU5wjX4UN6mqHwricJIiW8NioFL0tbdYOi5X5TOq",
-    secret: "JTw6mVidH9Twjzz0sm9UjQitLsIZ5ZhAcSoDxMwdHTDjzYQoEexvQTJxQPhuFzo8",
+    apiKey: "---",
+    secret: "---",
     uid: "",
     password: "",
     timeout: 30000,
@@ -60,8 +60,8 @@ const finalOpts = {
     verbose: false,
   },
   bitfinex: {
-    apiKey: "KddDMfwzVteoXtpxchNt19PEwo4Rs8pokAb7pQhngu0",
-    secret: "eDBefLbIoSpUCl5Zq6l5MJ4VesHJp9T1cSC8SHEcaEh",
+    apiKey: "----",
+    secret: "----",
     uid: "",
     password: "",
     timeout: 30000,
