@@ -11,6 +11,6 @@
   "dependencies": {
     "ccxt": "^1.25.95",
     "ccxws": "^0.31.1",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
